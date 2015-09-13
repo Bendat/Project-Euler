@@ -1,0 +1,7 @@
+c:\users\ben\documents\visual studio 2013\Projects\Euler13\Euler13\bin\Debug\Euler13.exe.config
+c:\users\ben\documents\visual studio 2013\Projects\Euler13\Euler13\bin\Debug\TextFile1.txt
+c:\users\ben\documents\visual studio 2013\Projects\Euler13\Euler13\bin\Debug\Euler13.exe
+c:\users\ben\documents\visual studio 2013\Projects\Euler13\Euler13\bin\Debug\Euler13.pdb
+c:\users\ben\documents\visual studio 2013\Projects\Euler13\Euler13\obj\Debug\Euler13.csprojResolveAssemblyReference.cache
+c:\users\ben\documents\visual studio 2013\Projects\Euler13\Euler13\obj\Debug\Euler13.exe
+c:\users\ben\documents\visual studio 2013\Projects\Euler13\Euler13\obj\Debug\Euler13.pdb
