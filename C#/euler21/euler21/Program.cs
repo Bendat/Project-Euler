@@ -21,7 +21,6 @@ namespace euler21
         static void Main(string[] args)
         {
             Stopwatch sw = Stopwatch.StartNew();
-            Dictionary<int, int> sumDictionary = new Dictionary<int, int>();
             int totalSum = 0;
             for (int i = 1; i < 10000; i++)
             {
