@@ -1,5 +1,5 @@
 class PrimeFactors{
-    public final long PRIME = 600851475143L;
+    public static final long PRIME = 600851475143L;
 
     private static long getLargestPrimeFactor(){
         long sum = PRIME; 
@@ -15,7 +15,6 @@ class PrimeFactors{
     }
 
     public static void main(String[] args){
-        PrimeFactors prime = new PrimeFactors();
         System.out.println(getLargestPrimeFactor());
     }
 }
